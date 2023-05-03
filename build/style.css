@@ -249,34 +249,19 @@ nav{
     overflow: scroll;
 }
 .story1{
-    background-image:linear-gradient(transparent,rgba(0,0,0,0.5)), url(/status-1.png);
+    background-image:linear-gradient(transparent,rgba(0,0,0,0.5)), url(status-1.png);
 }
 .story2{
-    background-image:linear-gradient(transparent,rgba(0,0,0,0.5)), url(/status-2.png);
+    background-image:linear-gradient(transparent,rgba(0,0,0,0.5)), url(status-2.png);
 }
 .story3{
-    background-image:linear-gradient(transparent,rgba(0,0,0,0.5)), url(/status-3.png);
+    background-image:linear-gradient(transparent,rgba(0,0,0,0.5)), url(status-3.png);
 }
 .story4{
-    background-image:linear-gradient(transparent,rgba(0,0,0,0.5)), url(/status-4.png);
+    background-image:linear-gradient(transparent,rgba(0,0,0,0.5)), url(status-4.png);
 }
 .story5{
-    background-image:linear-gradient(transparent,rgba(0,0,0,0.5)), url(/status-5.png);
-}
-.story1{
-    background-image:linear-gradient(transparent,rgba(0,0,0,0.5)), url(/status-1.png);
-}
-.story2{
-    background-image:linear-gradient(transparent,rgba(0,0,0,0.5)), url(/status-2.png);
-}
-.story3{
-    background-image:linear-gradient(transparent,rgba(0,0,0,0.5)), url(/status-3.png);
-}
-.story4{
-    background-image:linear-gradient(transparent,rgba(0,0,0,0.5)), url(/status-4.png);
-}
-.story5{
-    background-image:linear-gradient(transparent,rgba(0,0,0,0.5)), url(/status-5.png);
+    background-image:linear-gradient(transparent,rgba(0,0,0,0.5)), url(status-5.png);
 }
 .story.story1 img{
     top: unset;
